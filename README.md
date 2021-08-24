@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Kek 👋
+
+## I'm a Data Engineer!
+- 
+- 🧭 I love math
+- 🚀 I love physics
+- ⛰ I love hiking
 
 <!--
 **zhkek/zhkek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
