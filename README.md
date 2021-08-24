@@ -1,7 +1,6 @@
 ### Hi there, I'm Kek 👋
 
 ## I'm a Data Engineer!
-- 
 - 🧭 I love math
 - 🚀 I love physics
 - ⛰ I love hiking
